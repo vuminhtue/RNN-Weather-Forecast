@@ -1,0 +1,3 @@
+This is a small project regarding weather forecast using Precipitation, Temperature, Streamflow to forecast x-day ahead the streamflow.
+The project utilize Recurrent Neural Network Long Short Term Memory framework running on Clemson's Palmetto HPC platform.
+The project at the time being only use station data. However, I am working on improving it using gridded data and ability to predict for all days up to x-day ahead of time.
